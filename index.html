@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en" style="scroll-behavior: smooth;">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary Meta Tags -->
+  <title>Daniel Samuel | Frontend & Web Developer | UI/UX Designer</title>
+  <meta name="title" content="Daniel Samuel | Frontend & Web Developer | UI/UX Designer">
+  <meta name="description" content="Explore the portfolio of Daniel Samuel, a Frontend and Web Developer specializing in high-performance React apps, creative UI/UX design, and SEO.">
+  <meta name="keywords" content="Web Developer, Frontend Developer, Frontend Engineer, React Developer, UI/UX Design, SEO Specialist, Daniel Samuel, Full Stack Web Developer, JavaScript Developer">
+  <meta name="author" content="Daniel Samuel">
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://danielcodeblog.kesug.com/">
+  <meta property="og:title" content="Daniel Samuel | Frontend & Web Developer | UI/UX Designer">
+  <meta property="og:description" content="Engineering high-fidelity digital experiences bridging function and aesthetics. Specialist in Frontend and Web Development.">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=1200">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://danielcodeblog.kesug.com/">
+  <meta property="twitter:title" content="Daniel Samuel | Frontend & Web Developer | UI/UX Designer">
+  <meta property="twitter:description" content="Engineering high-fidelity digital experiences bridging function and aesthetics. Specialist in Frontend and Web Development.">
+  <meta property="twitter:image" content="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=1200">
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&family=Space+Grotesk:wght@300;500;700;900&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #FDFCF0; /* Yellowish-white/Cream */
+      --fg: #0F211D; /* Deep Dark Green */
+      --accent: #2D5A27; /* Forest Green */
+      --highlight: #D4FF3F; /* Electric Lime */
+      --border: rgba(15, 33, 29, 0.1);
+    }
+    body {
+      background-color: var(--bg);
+      color: var(--fg);
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+    }
+    .font-heading {
+      font-family: 'Space Grotesk', sans-serif;
+    }
+    .noise {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 9999;
+      opacity: 0.04;
+      pointer-events: none;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+    }
+    .cursor-glow {
+      width: 800px;
+      height: 800px;
+      background: radial-gradient(circle, 
+        rgba(212, 255, 63, 0.15) 0%, 
+        rgba(212, 255, 63, 0.05) 30%, 
+        rgba(253, 252, 240, 0) 65%
+      );
+      position: fixed;
+      top: 0;
+      left: 0;
+      pointer-events: none;
+      z-index: 0;
+      border-radius: 50%;
+      transform: translate(-50%, -50%);
+      will-change: transform;
+    }
+    .vertical-text {
+      writing-mode: vertical-rl;
+      text-orientation: mixed;
+    }
+    .shimmer-green {
+      background: linear-gradient(90deg, var(--fg) 0%, var(--accent) 50%, var(--fg) 100%);
+      background-size: 200% auto;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: shimmer 4s linear infinite;
+    }
+    @keyframes shimmer {
+      to { background-position: 200% center; }
+    }
+  </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.2.4/",
+    "react": "https://esm.sh/react@^19.2.4",
+    "@google/genai": "https://esm.sh/@google/genai@^1.41.0",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.4/",
+    "three": "https://esm.sh/three@0.170.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+<body>
+  <div id="root"></div>
+  <div class="noise"></div>
+  <div class="cursor-glow" id="glow"></div>
+  <script>
+    const glow = document.getElementById('glow');
+    let mouseX = 0;
+    let mouseY = 0;
+    let ballX = 0;
+    let ballY = 0;
+    let speed = 0.08;
+
+    document.addEventListener('mousemove', (e) => {
+      mouseX = e.clientX;
+      mouseY = e.clientY;
+    });
+
+    function animate() {
+      let distX = mouseX - ballX;
+      let distY = mouseY - ballY;
+      
+      ballX = ballX + (distX * speed);
+      ballY = ballY + (distY * speed);
+      
+      glow.style.transform = `translate3d(calc(${ballX}px - 50%), calc(${ballY}px - 50%), 0)`;
+      
+      requestAnimationFrame(animate);
+    }
+    
+    animate();
+  </script>
+<script type="module" src="/index.tsx"></script>
+</body>
+</html>
