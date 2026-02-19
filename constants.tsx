@@ -26,7 +26,7 @@ export const PROJECTS: Project[] = [
     category: 'E-Commerce / Health',
     description: 'A robust fitness and nutrition platform built to scale high-performance supplement sales and community engagement.',
     imageUrl: 'https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&q=80&w=1600',
-    tags: ['WooCommerce', 'Branding', 'SMM Integration'],
+    tags: ['proteiner', 'Branding', 'affiliate'],
     link: 'https://myproteiner.com/'
   },
   {
@@ -35,7 +35,7 @@ export const PROJECTS: Project[] = [
     category: 'Creative Agency / Portfolio',
     description: 'A high-fidelity digital showcase for creative excellence, featuring smooth motion and minimal aesthetics.',
     imageUrl: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=1200',
-    tags: ['GSAP', 'Agency', 'High-Fidelity'],
+    tags: ['video', 'comey', 'subscription'],
     link: 'https://crackflow.hostingersite.com/'
   },
   {
