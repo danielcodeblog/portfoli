@@ -18,7 +18,7 @@ export const PROJECTS: Project[] = [
     description: 'Modern software ecosystem focusing on streamlined workflows and user-centric productivity tools.',
     imageUrl: 'https://images.unsplash.com/photo-1522252234503-e356532cafd5?auto=format&fit=crop&q=80&w=1600',
     tags: ['Tailwind', 'Productivity', 'UX Architecture'],
-    link: 'https://hovapay.hostingersite.com/'
+    link: 'https://honeydew-toad-672060.hostingersite.com/'
   },
   {
     id: 'myproteiner',
