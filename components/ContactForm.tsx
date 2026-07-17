@@ -82,7 +82,7 @@ const ContactForm: React.FC = () => {
               placeholder="Your Name"
               value={formData.name}
               onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-              className="w-full bg-white/10 border border-white/20 rounded-2xl py-5 px-6 text-lg font-bold focus:outline-none focus:border-[#D4FF3F] focus:bg-white/20 transition-all text-white placeholder:text-white/30"
+              className="w-full bg-white border border-transparent rounded-2xl py-5 px-6 text-lg font-bold focus:outline-none focus:border-[#D4FF3F] focus:ring-4 focus:ring-[#D4FF3F]/20 transition-all text-[#0F211D] placeholder:text-[#0F211D]/45"
             />
           </div>
           <div className="space-y-3">
@@ -94,7 +94,7 @@ const ContactForm: React.FC = () => {
               placeholder="Your Email"
               value={formData.email}
               onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-              className="w-full bg-white/10 border border-white/20 rounded-2xl py-5 px-6 text-lg font-bold focus:outline-none focus:border-[#D4FF3F] focus:bg-white/20 transition-all text-white placeholder:text-white/30"
+              className="w-full bg-white border border-transparent rounded-2xl py-5 px-6 text-lg font-bold focus:outline-none focus:border-[#D4FF3F] focus:ring-4 focus:ring-[#D4FF3F]/20 transition-all text-[#0F211D] placeholder:text-[#0F211D]/45"
             />
           </div>
         </div>
@@ -108,7 +108,7 @@ const ContactForm: React.FC = () => {
             placeholder="Tell me about your project or vision..."
             value={formData.message}
             onChange={(e) => setFormData({ ...formData, message: e.target.value })}
-            className="w-full bg-white/10 border border-white/20 rounded-2xl py-5 px-6 text-lg font-bold focus:outline-none focus:border-[#D4FF3F] focus:bg-white/20 transition-all text-white placeholder:text-white/30 resize-none"
+            className="w-full bg-white border border-transparent rounded-2xl py-5 px-6 text-lg font-bold focus:outline-none focus:border-[#D4FF3F] focus:ring-4 focus:ring-[#D4FF3F]/20 transition-all text-[#0F211D] placeholder:text-[#0F211D]/45 resize-none"
           />
         </div>
 
