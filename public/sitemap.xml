@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Primary Portfolio Landing Page -->
+  <url>
+    <loc>https://yourtechguyng.com/</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+    
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>Daniel Samuel Portfolio - High Fidelity Digital Showcase</image:title>
+      <image:caption>Interactive high-performance 3D portfolio of Daniel Samuel, showing a creative developer's works.</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&amp;fit=crop&amp;q=80&amp;w=1600</image:loc>
+      <image:title>Israel Amedu Portfolio Project</image:title>
+      <image:caption>Cinematic video production showcase designed and engineered by Daniel Samuel.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1522252234503-e356532cafd5?auto=format&amp;fit=crop&amp;q=80&amp;w=1600</image:loc>
+      <image:title>Hovapay SaaS Project</image:title>
+      <image:caption>Modern financial and productivity system designed with interactive flows.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&amp;fit=crop&amp;q=80&amp;w=1600</image:loc>
+      <image:title>MyProteiner E-Commerce Project</image:title>
+      <image:caption>High-performance medical and fitness supplement site built by Daniel Samuel.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&amp;fit=crop&amp;q=80&amp;w=1600</image:loc>
+      <image:title>Queue Receipts Retail Solution</image:title>
+      <image:caption>Modern digital receipting and records bridge from physical transactional systems.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&amp;fit=crop&amp;q=80&amp;w=1600</image:loc>
+      <image:title>Donmark Elec Platform</image:title>
+      <image:caption>Electrical engineering services site demonstrating clean content layouts.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&amp;fit=crop&amp;q=80&amp;w=1600</image:loc>
+      <image:title>7hrs Hub E-Commerce</image:title>
+      <image:caption>Curated online store delivering secure digital wellness and gadget purchases.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&amp;fit=crop&amp;q=80&amp;w=1600</image:loc>
+      <image:title>Clurpay Fintech Solution</image:title>
+      <image:caption>Modern payment and financial transaction ecosystem designed and engineered by Daniel Samuel.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Main Index -->
+  <url>
+    <loc>https://yourtechguyng.com/blog</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Insights / Blog Article 15 (AI Video Creators of 2026) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/ai-video-creators-of-2026-inside-the-battle-of-sora-veo-and-gen-3</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>AI Video Creators of 2026: Inside the Battle of Sora, Veo, and Gen-3</image:title>
+      <image:caption>The cinematic singularity has arrived. Compare the physical neural simulators, frame-consistency benchmarks, and spatial-temporal patch models powering modern synthetic video generation.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 14 (Why SpaceX behaves like a Public Giant) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/why-spacex-behaves-like-a-public-giant-the-210b-private-public-paradox</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>Why SpaceX behaves like a Public Giant: The $210B Private-Public Paradox</image:title>
+      <image:caption>With secondary tender offers pushing its valuation to $210 billion, SpaceX has evolved beyond traditional private constraints. Explore how massive direct liquidity turns it into a pseudo-public giant.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 13 (Elon Musk's xAI Colossus) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/elon-musks-xai-colossus-the-extreme-infrastructure-behind-the-worlds-largest-supercomputer</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>Elon Musk's xAI Colossus: The Extreme Infrastructure Behind the World's Largest Supercomputer</image:title>
+      <image:caption>An inside look at the physical engineering, power grid demands, and revolutionary liquid cooling of xAI’s Memphis supercomputer cluster.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 12 (Google AdSense Mastery) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/google-adsense-mastery-in-2026-balancing-yield-with-elite-performance</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>Google AdSense Mastery in 2026: Balancing Yield with Elite Performance</image:title>
+      <image:caption>A technical study on high-yield programmatic ad integration. Explore aspect-ratio wrappers, DNS prelinking, and non-blocking monetization patterns.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 11 (The Nigerian Founder's Odyssey) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/the-nigerian-founders-odyssey-engineering-through-the-hardest-grinds</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>The Nigerian Founder's Odyssey: Engineering through the Hardest Grinds</image:title>
+      <image:caption>An inside look at the grit, regulatory pivots, and technical resourcefulness defining startup founders in Lagos and across West Africa.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 1 (Future of High-Performance Web) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/the-future-of-high-performance-web</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>The Future of High-Performance Web</image:title>
+      <image:caption>Exploring the intersection of brutalist design and optimized frontend architecture for faster web experiences.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 2 (Designing for Kinetic Impact) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/designing-for-kinetic-impact</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>Designing for Kinetic Impact</image:title>
+      <image:caption>How motion can be used not just for decoration, but to guide user attention and clarify narrative structure.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 3 (Building with Intention) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/building-with-intention</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>Building with Intention</image:title>
+      <image:caption>Digital craftsmanship requires stripping away the unnecessary and highlighting core value.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 4 (React 19 & The Era of Compiler-First Frameworks) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/react-19-and-the-era-of-compiler-first-frameworks</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>React 19 &amp; The Era of Compiler-First Frameworks</image:title>
+      <image:caption>An in-depth analysis of React Compiler (React Forget), actions, and the shift from runtime overhead to compile-time optimizations.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 5 (PostgreSQL Query Optimization) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/postgresql-query-optimization-and-database-indexing-strategies</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>PostgreSQL Query Optimization &amp; Database Indexing Strategies</image:title>
+      <image:caption>Under the hood of SQL databases: optimizing execution plans, choosing the right indexes, and writing high-efficiency schemas.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 6 (Architecting Zero-JS Web Layouts) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/architecting-zero-js-web-layouts</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>Architecting Zero-JS Web Layouts</image:title>
+      <image:caption>Rethinking hydration: how Server-Driven rendering and partial hydration restore lightning-fast load times for SEO supremacy.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 7 (CSS Container Queries) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/css-container-queries-the-death-of-viewport-design</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>CSS Container Queries: The Death of Viewport Design</image:title>
+      <image:caption>How component-driven container queries are replacing viewport-driven media queries to build truly autonomous design systems.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 8 (Optimizing LCP) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/optimizing-lcp-next-gen-image-formats-and-cdn-delivery</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>Optimizing LCP: Next-Gen Image Formats &amp; CDN Delivery</image:title>
+      <image:caption>Deep-dive into reducing Largest Contentful Paint with modern formats (AVIF and WebP), responsive source sets, and predictive prefetching.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 9 (Edge Computing) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/edge-computing-globally-distributed-state-at-the-edge</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>Edge Computing: Globally Distributed State at the Edge</image:title>
+      <image:caption>Exploring serverless architectures, globally distributed key-value stores, and running computed states geographically closer to users.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Insights / Blog Article 10 (Securing Headless APIs & JWT) -->
+  <url>
+    <loc>https://yourtechguyng.com/blog/securing-headless-apis-and-jwt-best-practices</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&amp;fit=crop&amp;q=80&amp;w=1200</image:loc>
+      <image:title>Securing Headless APIs &amp; JWT Best Practices</image:title>
+      <image:caption>How to protect headless backends, implement secure JSON Web Token storage, and prevent cross-site scripting (XSS) and CSRF attacks.</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
