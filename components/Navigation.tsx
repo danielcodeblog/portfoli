@@ -29,8 +29,6 @@ const Navigation: React.FC = () => {
         behavior: 'smooth',
         block: 'start',
       });
-      // Update URL hash without jumping
-      window.history.pushState(null, '', href);
     }
   };
 
