@@ -91,7 +91,6 @@ const Header: React.FC = () => {
           top: offsetPosition,
           behavior: 'smooth'
         });
-        window.history.pushState(null, '', href);
       }
     }
   };
