@@ -161,8 +161,8 @@ Currently working remotely at Sleekabyte UK.
 His motto: "Every design tells a story, and every story deserves to be told beautifully."
 Provide info about his works and services (Web Development, UI/UX, SEO, and Google AdSense).
 Socials:
-- Instagram: @__iamclassic
-- TikTok: @iamclassicway
+- Instagram: @yourtchguy
+- TikTok: @yourtchguy
 - LinkedIn: Daniel Samuel
 */
 `;export const BLOG_POSTS: BlogPost[] = [
