@@ -132,7 +132,7 @@ const MainLayout: React.FC = () => {
                           <span className="text-[9px] font-black uppercase tracking-widest text-white/40 group-hover:text-[#D4FF3F] transition-colors">Instagram</span>
                           <span className="text-lg md:text-xl font-bold">@yourtchguy</span>
                         </a>
-                        <a href="https://www.tiktok.com/@yourtchguy target="_blank" rel="noopener noreferrer" className="group flex flex-col gap-2">
+                        <a href="https://www.tiktok.com/@yourtchguy" target="_blank" rel="noopener noreferrer" className="group flex flex-col gap-2">
                           <span className="text-[9px] font-black uppercase tracking-widest text-white/40 group-hover:text-[#D4FF3F] transition-colors">TikTok</span>
                           <span className="text-lg md:text-xl font-bold">@yourtchguy</span>
                         </a>
