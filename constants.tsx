@@ -3,13 +3,13 @@ import { Project, Skill, Experience, BlogPost } from './types';
 
 export const PROJECTS: Project[] = [
   {
-    id: 'clurpay',
-    title: 'Clurpay',
+    id: 'clursms',
+    title: 'Clursms',
     category: 'SMS Verification / Fintech',
     description: 'A high-performance SMS verification and OTP service designed to streamline secure global phone authentication and transaction validation.',
     imageUrl: 'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&q=80&w=1600',
     tags: ['SMS API', 'OTP Verification', 'Fintech', 'SaaS'],
-    link: 'https://clurpay.com/'
+    link: 'https://clursms.com/'
   },
   {
     id: 'israelamedu',
